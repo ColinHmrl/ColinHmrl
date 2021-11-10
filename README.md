@@ -1,7 +1,7 @@
 # Welcome
 
 Welcome to my profile, I'm Colin. 
-Currently in IT engineering school at CESI in Reims, France :fr:.
+Currently in third year, Cesi graduate school of engineering in Reims, France.
 
 ## Projetcs
 
