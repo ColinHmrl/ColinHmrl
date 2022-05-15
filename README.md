@@ -1,7 +1,7 @@
 # Welcome
 
 Welcome to my profile, I'm Colin. 
-Currently in third year in Cesi graduate school of engineering specialized in IT.
+Currently in third year in Cesi graduate school of engineering specialized in IT. From France, Reims.
 
 ## Projetcs
 
