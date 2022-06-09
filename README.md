@@ -22,7 +22,8 @@ Project done during my High-School Diploma/Degree, mini-game 2 dimension top vie
 
 [To-Do-List](https://github.com/ColinHmrl/to-do):
 
-partially functional, dated project.
+To do list with stock html and js
+Partially functional, dated project.
 
 ### Personnal Projects
-empty.
+
