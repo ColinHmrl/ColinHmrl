@@ -26,11 +26,6 @@ Partially functional, dated project.
 Backup software made with C#.  
 Project Carried out with [Louis Brasseur](https://github.com/louisbrasseur) and [Pierre](https://github.com/Pierree-A)
 
----
-
-[Computer science and digital sciences Project](https://github.com/ColinHmrl/Projet-ISN):  
-
-Project done during my High-School Diploma/Degree, mini-game 2 dimension top view created in Python.  
 
 ---
 
