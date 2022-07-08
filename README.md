@@ -28,26 +28,12 @@ pathfinding algorithms, matrix and 3d coords datasets
 
 ### Personnal Projects
 
-[CarneDeBord](https://github.com/ColinHmrl/CarnetDeBord):
-
-Logbook wrote in python in 2020.
-
----
 
 [mlbot](https://github.com/ColinHmrl/mlbot):  
 
 Machine learning with SKLearn for crypto bot. WIP.
 
 ---
-
-[myMediatech](https://github.com/ColinHmrl/myMediatech):  
-
-Small old python app to list games/books/films/series to watch or to do. Nothing is well done here, could has a database but I used txt file instead ... weary  
-
-2019  
-
----
-
 
 [chia-plot-script](https://github.com/ColinHmrl/chia-plot-script):  
 Scripts and useful commands [chia](https://github.com/Chia-Network) plot and node.
