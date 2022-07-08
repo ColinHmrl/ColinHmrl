@@ -14,13 +14,6 @@ Project carried out with [Hugo Antoine](https://github.com/Hugo-Antoine), [Skywi
 
 ---
 
-[To-Do-List](https://github.com/ColinHmrl/to-do):  
-
-To do list with stock html and js  
-Partially functional, dated project.
-
----
-
 [EasySave](https://github.com/ColinHmrl/EasySave):  
 
 Backup software made with C#.  
