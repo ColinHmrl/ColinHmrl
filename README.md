@@ -29,9 +29,9 @@ Project Carried out with [Louis Brasseur](https://github.com/louisbrasseur) and 
 
 ---
 
-[3dPathfinding](https://github.com/ColinHmrl/3dPathfinding):  
+[pathfinding-algorithm](https://github.com/ColinHmrl/pathfinding-algorithm):  
 
-Genetic and Insertion Algorithm for 3d pathfinding.
+pathfinding algorithms, matrix and 3d coords datasets
 
 ### Personnal Projects
 
