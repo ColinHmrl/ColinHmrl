@@ -40,8 +40,8 @@ Scripts and useful commands [chia](https://github.com/Chia-Network) plot and nod
 
 ---
 
-[docker-django-apache](https://github.com/ColinHmrl/docker-django-apache)  
-Docker image to deploy django application with apache2
+~~[docker-django-apache](https://github.com/ColinHmrl/docker-django-apache)~~  
+~~Docker image to deploy django application with apache2~~
 
 ---
 ## Contact
