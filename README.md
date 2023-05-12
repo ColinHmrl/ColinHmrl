@@ -3,7 +3,7 @@
 
 [Web Project](https://github.com/ColinHmrl/Projet-Web):  
 
-Internship search website done with Model-View-Controller.  
+Internship search website done with a Model-View-Controller approach. 
 Project carried out with [Hugo Antoine](https://github.com/Hugo-Antoine), [Skywig08](https://github.com/Skywig08) and [Adrien-S](https://github.com/Adrien-S).
 
 ---
