@@ -1,5 +1,5 @@
 
-# School projects
+# Repositories
 
 [Web Project](https://github.com/ColinHmrl/Projet-Web):  
 
@@ -10,7 +10,7 @@ Project carried out with [Hugo Antoine](https://github.com/Hugo-Antoine), [Skywi
 
 [EasySave](https://github.com/ColinHmrl/EasySave):  
 
-Backup software made with C#.  
+Backup software made in C#.  
 Project Carried out with [Louis Brasseur](https://github.com/louisbrasseur) and [Pierre](https://github.com/Pierree-A)
 
 
@@ -19,6 +19,23 @@ Project Carried out with [Louis Brasseur](https://github.com/louisbrasseur) and 
 [pathfinding-algorithm](https://github.com/ColinHmrl/pathfinding-algorithm):  
 
 pathfinding algorithms, matrix and 3d coords datasets
+
+
+---
+
+[Gitlab-ce Traefik](https://github.com/ColinHmrl/gitlab-traefik)
+
+gitlab-ce with traefik with docker-compose 
+
+---
+
+
+[Rotating MBR](https://github.com/ColinHmrl/rotating_mbr)
+
+Rotating Minimum Bounding Rectangle with 3d point cloud implementation in python
+
+
+
 
 ---
 # Contact
