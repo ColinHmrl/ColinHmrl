@@ -1,11 +1,5 @@
-# Welcome
 
-Welcome to my profile, I'm Colin. 
-Currently in third year in Cesi graduate school of engineering specialized in IT. From France, Reims.
-
-## Projetcs
-
-### School projects
+# School projects
 
 [Web Project](https://github.com/ColinHmrl/Projet-Web):  
 
@@ -27,7 +21,7 @@ Project Carried out with [Louis Brasseur](https://github.com/louisbrasseur) and 
 pathfinding algorithms, matrix and 3d coords datasets
 
 ---
-## Contact
+# Contact
 You can contact me at this address: colin.hamerel@viacesi.fr
 
 
